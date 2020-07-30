@@ -4,12 +4,12 @@
 * 新增转弯后的车道提示，如"左转"，左转后进入xx车道
 * 新增高速路上显示出口，连接线，收费站和服务区气泡
 
-<img src="../images/highway_guide_bubble.jpg" style="display: block; margin: 0 auto;" width="300">
+<img src="images/highway_guide_bubble.jpg" style="display: block; margin: 0 auto;" width="300">
 
 * 新增用户信息（历史关键字、历史POI、历史目的地、车辆信息）在线同步
 * 搜索结果显示地铁线路、公交线路信息
 
-<img src="../images/subway_lines.jpg" style="display: block; margin: 0 auto;" width="300">
+<img src="images/subway_lines.jpg" style="display: block; margin: 0 auto;" width="300">
 
 * 导航中横屏模式下显示当前行政区
 * 新增扩大区域搜索

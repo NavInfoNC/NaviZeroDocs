@@ -16,6 +16,11 @@
 * [安卓内测版(密码 mapbar)](https://www.pgyer.com/eGby)
 * [iOS内测版(密码 mapbar)](https://www.pgyer.com/xJXq)
 
+# 资源
+
+* [Changelog of iOS Version](./changelog/changelog_ios.md)
+* [Changelog of Android Version](./changelog/changelog_android.md)
+
 # 关于本仓库
 
 本仓库的作用：
