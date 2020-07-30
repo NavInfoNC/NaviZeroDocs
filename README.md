@@ -6,10 +6,7 @@
 
 我们期望将来能做成全开源的项目，服务于所有需要导航技术的公司企业。开源计划还在酝酿中。
 
-<img src="images/preview1.png" width="20%">
-<img src="images/preview2.png" width="20%">
-<img src="images/preview3.png" width="20%">
-<img src="images/preview4.jpg" width="20%">
+<img src="images/preview1.png" width="20%"> <img src="images/preview2.png" width="20%"> <img src="images/preview3.png" width="20%"> <img src="images/preview4.jpg" width="20%">
 
 # 下载
 
