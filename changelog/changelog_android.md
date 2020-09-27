@@ -1,3 +1,25 @@
+## 2020-09-25 (v2.01.01)
+
+* 新增电子眼反馈
+
+  电子眼反馈支持多报电子眼、少报电子眼和电子眼类型错误三类。
+  
+    <img src="images/camera_feedback.jpg" style="display: block; margin: 0 auto;" width="300">
+
+* 未来出行规划支持查看限行信息
+* 改进车头朝上模式方向的稳定性
+* 漫游模式下新增当前道路路名和限速显示
+* 关于页面新增APP官网、GitHub入口
+
+  <table><tr>
+  <td><img src="images/official_site.jpg" width="300" border=0></td>
+  <td><img src="images/github_page.jpg" width="300" border=0></td>
+  </tr></table>
+
+* 修改 bugs:
+  * 修复导航语音和语音助手语音冲突的问题
+  * 修复导航修改偏好设置不重算路问题
+
 ## 2020-09-11 (v2.00.02)
 
 * "未来用时"，升级为"**未来出行**" [#8](/../../issues/8)
@@ -39,10 +61,10 @@
 * 新增行程总结
 * 新增轨迹管理和同步
 
-<table><tr>
-<td><img src="images/trip_list.jpg" width="300" border=0></td>
-<td><img src="images/trip_detail.jpg" width="300" border=0></td>
-</tr></table>
+  <table><tr>
+  <td><img src="images/trip_list.jpg" width="300" border=0></td>
+  <td><img src="images/trip_detail.jpg" width="300" border=0></td>
+  </tr></table>
 
 * 优化沿路路况请求，降低流量消耗
 * 高速途径出口显示转向箭头
