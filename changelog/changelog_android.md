@@ -11,10 +11,10 @@
 * 漫游模式下新增当前道路路名和限速显示
 * 关于页面新增APP官网、GitHub入口
 
-<table><tr>
-<td><img src="images/official_site.jpg" width="300" border=0></td>
-<td><img src="images/github_page.jpg" width="300" border=0></td>
-</tr></table>
+  <table><tr>
+  <td><img src="images/official_site.jpg" width="300" border=0></td>
+  <td><img src="images/github_page.jpg" width="300" border=0></td>
+  </tr></table>
 
 * 修改 bugs:
   * 修复导航语音和语音助手语音冲突的问题
@@ -61,10 +61,10 @@
 * 新增行程总结
 * 新增轨迹管理和同步
 
-<table><tr>
-<td><img src="images/trip_list.jpg" width="300" border=0></td>
-<td><img src="images/trip_detail.jpg" width="300" border=0></td>
-</tr></table>
+  <table><tr>
+  <td><img src="images/trip_list.jpg" width="300" border=0></td>
+  <td><img src="images/trip_detail.jpg" width="300" border=0></td>
+  </tr></table>
 
 * 优化沿路路况请求，降低流量消耗
 * 高速途径出口显示转向箭头

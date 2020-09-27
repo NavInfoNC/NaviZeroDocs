@@ -1,3 +1,21 @@
+## 2020-09-25 
+
+* 新增电子眼反馈
+
+  <img src="images/camera_feedback.jpg" style="display: block; margin: 0 auto;" width="300">
+
+* 关于页面新增APP官网、GitHub入口
+
+  <table><tr>
+  <td><img src="images/official_site.jpg" width="300" border=0></td>
+  <td><img src="images/github_page.jpg" width="300" border=0></td>
+  </tr></table>
+
+* 未来出行规划支持查看限行信息
+* 改进车头朝上模式方向的稳定性
+* 漫游模式下新增当前道路路名和限速显示
+* 修改bug
+  * 导航下修改偏好设置不重算路问题
 
 ## 2020-09-11
 
