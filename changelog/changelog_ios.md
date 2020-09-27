@@ -1,19 +1,23 @@
 
 ## 2020-09-11
 
-* 优化未来出行时间显示效果 [#8](/../../issues/8)
+* "未来用时"，升级为"**未来出行**" [#8](/../../issues/8)
 
-  未来出行时间经过重新设计，支持同时显示多个时间点的 ETA，并且能通过滑动快速选择时间
+  * 支持通过滑块快速选择出发时间。
+  * 不同的时间点，会根据预测路况和限行政策规划不同的路线。
 
-  <img src="images/future_time_portrait.jpg" style="display: block; margin: 0 auto;" width="300">
+  <img src="images/future_time_portrait.jpg" width="300">
 
 * 导航新增当前道路限速提示
+
+  ![](images/speed-limit-of-current-road.png)
+
 * 导航新增终点名称显示
 
   当前道路限速显示在路名旁边，一目了然。
   导航过程中一直显示终点名称，清晰明了。
 
-  <img src="images/destination_label.jpg" style="display: block; margin: 0 auto;" width="300">
+  <img src="images/destination_label.jpg" width="300">
 
 * 修改bug
   * 修改逆地理显示问题
@@ -63,12 +67,12 @@
 * 新增转弯后的车道提示，如"左转"，左转后进入xx车道
 * 新增高速路上显示出口，连接线，收费站和服务区气泡
 
-<img src="images/highway_guide_bubble.jpg" style="display: block; margin: 0 auto;" width="300">
+  <img src="images/highway_guide_bubble.jpg" width="300">
 
 * 新增用户信息（历史关键字、历史POI、历史目的地、车辆信息）在线同步
 * 搜索结果显示地铁线路、公交线路信息
 
-<img src="images/subway_lines.jpg" style="display: block; margin: 0 auto;" width="300">
+  <img src="images/subway_lines.jpg" width="300">
 
 * 导航中横屏模式下显示当前行政区
 * 新增扩大区域搜索
