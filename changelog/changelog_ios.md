@@ -1,3 +1,39 @@
+## 2020-11-20
+
+* 新增预览路线时切换限行车辆功能
+
+  <img src="images/restriction_plate_no.jpg" style="display: block; margin: 0 auto;" width="300"> 
+
+* 改进预测回家/去公司功能的效果
+* 新增电子眼剩余距离显示
+
+  <img src="images/camera_left_distance.jpg" style="display: block; margin: 0 auto;" width="300"> 
+
+* 修改bug
+  * 修改不登录情况同步收藏夹崩溃问题
+  * 修改算路页面地图显示问题
+
+## 2020-11-6
+
+* 新增途径省市离线地图下载功能
+
+  一键下载所有途径城市数据。
+
+  <img src="images/download_city_list.jpg" style="display: block; margin: 0 auto;" width="300">
+
+* 修改bug
+  * 修改算路模式切换终点显示问题
+  * 修复深色模式部分视图配色问题
+
+## 2020-10-22
+
+* 新增电子眼超速提示
+* 未来出行规划支持路线切换查看
+* 沿路搜支持按品牌过滤
+* 修改bug
+  * 修改启动偶发崩溃问题
+  * 修改小地图路况条切换问题
+
 ## 2020-09-25 
 
 * 新增电子眼反馈
