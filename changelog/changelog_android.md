@@ -1,3 +1,40 @@
+## 2020-11-19 (v2.7.3)
+
+* 新增途径城市离线地图数据下载功能
+
+  一键下载所有途径城市数据。
+
+  <img src="images/download_city_list.jpg" style="display: block; margin: 0 auto;" width="300">
+
+* 新增预览路线时切换限行车辆功能
+
+  <img src="images/restriction_plate_no.jpg" style="display: block; margin: 0 auto;" width="300"> 
+
+* 新增电子眼剩余距离显示
+
+  <img src="images/camera_left_distance.jpg" style="display: block; margin: 0 auto;" width="300"> 
+
+* 改进预测回家/去公司功能的效果
+* 修改bugs:
+  * 修改车机上选择照片可能崩溃的问题
+
+## 2020-11-05 (v2.6.3)
+
+* 修改 bugs:
+  * 漫游模式出隧道可能崩溃的问题
+  * 首次导航放大图不显示的问题
+  * 启动偶现闪退
+  * 开始导航偶现崩溃
+  * 超大声不生效的问题
+  * 黑夜模式下小地图配色不正确的问题
+
+## 2020-10-21
+
+* 新增电子眼超速提醒
+* 未来出行规划支持路线切换
+* 沿路搜支持按品牌过滤
+* 优化页面加载速度
+
 ## 2020-09-25 (v2.01.01)
 
 * 新增电子眼反馈
